@@ -1,11 +1,8 @@
-1. Group Information
-- Akarsh Jain - 2020A8PS1453H
-- Rashi Singh - 2021A3PS0807H
-- Mohit Duggal - 2020A7PS0231H
-- Shivam Parashar - 2020A3PS1775H
-- Aryan Vatsa - 2020A3PS2124H
+1. Information
+ Aryan Vatsa - 2020A3PS2124H
+ Birla Institute of Technology and Science Pilani, Hydddd campus
 
-2. Code Flow:
+3. Code Flow:
 - The code starts by defining several data structures and classes, including a Block class to represent blocks in the blockchain.
 - It maintains a blockchain to record transactions and product movements, a list of ongoing deliveries, and a list of completed transactions. There are also data structures to store user information, products, and delegates.
 - The Block class is used to create new blocks in the blockchain. It calculates the Merkle root, computes the hash of the block, and incorporates a simple Delegated Proof of Stake (DPoS) consensus algorithm
